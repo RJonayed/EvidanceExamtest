@@ -1,0 +1,14 @@
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\bin\Debug\EvidanceExamtest.exe.config
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\bin\Debug\EvidanceExamtest.exe
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\bin\Debug\EvidanceExamtest.pdb
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\obj\Debug\EvidanceExamtest.csprojAssemblyReference.cache
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\obj\Debug\EvidanceExamtest.csproj.CoreCompileInputs.cache
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\obj\Debug\EvidanceExamtest.exe
+C:\Users\JONAYED-PC\source\repos\EvidanceExamtest\EvidanceExamtest\obj\Debug\EvidanceExamtest.pdb
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\bin\Debug\EvidanceExamtest.exe.config
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\bin\Debug\EvidanceExamtest.exe
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\bin\Debug\EvidanceExamtest.pdb
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\obj\Debug\EvidanceExamtest.csprojAssemblyReference.cache
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\obj\Debug\EvidanceExamtest.csproj.CoreCompileInputs.cache
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\obj\Debug\EvidanceExamtest.exe
+F:\IDB_Core\C#.Net_Module_2\Evidance_Exam\EvidanceExamtest\obj\Debug\EvidanceExamtest.pdb
